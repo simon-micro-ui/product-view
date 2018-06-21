@@ -1,0 +1,6 @@
+/node_modules/
+/dist/
+/dist-npm/
+.DS_Store
+**/.DS_Store
+.settings

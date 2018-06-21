@@ -1,0 +1,1 @@
+console.log('SIMON In product-view : my-test.js');
